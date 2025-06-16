@@ -1,26 +1,23 @@
-# 💪🏼 dry days
+# 💪🏼 no meat days
 
-hey! this is a low-key way to track dry days — no pressure, just good vibes.  fork this repo, make your own log, and keep it going.
+Trying not to consume any meats for a month. No other rules, just not eating meat.
 
-## my log
+## log
 
-| date       | dry day? | notes                                              |
-|------------|----------|----------------------------------------------------|
-| 2025-06-01 | ✅       | no alcohol                                         |
-| 2025-06-02 | ✅       | no alcohol                                         |
-| 2025-06-03 | ✅       | no alcohol                                         |
-| 2025-06-04 | ✅       | no alcohol                                         |
-| 2025-06-05 | ✅       | dinner with friends — water only                   |
-| 2025-06-06 | ✅       | php portugal meetup — 3 non-alcoholic beers        |
-| 2025-06-07 | ✅       | no alcohol                                         |
-| 2025-06-08 | ✅       | no alcohol                                         |
-| 2025-06-09 | ✅       | no alcohol                                         |
-| 2025-06-10 | ✅       | no alcohol                                         |
-| 2025-06-11 | ✅       | no alcohol                                         |
-| 2025-06-12 | ✅       | no alcohol                                         |
+| date       | status | notes       |
+|------------|--------|-------------|
+| 2025-06-08 | ✅     | no meat     |
+| 2025-06-09 | ✅     | no meat     |
+| 2025-06-10 | ✅     | no meat     |
+| 2025-06-11 | ✅     | no meat     |
+| 2025-06-12 | ✅     | no meat     |
+| 2025-06-13 | ✅     | no meat     |
+| 2025-06-14 | ✅     | no meat     |
+| 2025-06-15 | ✅     | no meat     |
+
 
 ```
 legend:
-✅ = no alcohol
-❌ = alcohol consumed
+✅ = no meat consumed
+❌ = meat consumed
 ```
