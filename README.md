@@ -15,6 +15,7 @@ Trying not to consume any meats for a month. No other rules, just not eating mea
 | 2025-06-14 | ✅     | no meat     |
 | 2025-06-15 | ✅     | no meat     |
 | 2025-06-16 | ✅     | no meat     |
+| 2025-06-17 | ✅     | no meat     |
 
 ```
 legend:
